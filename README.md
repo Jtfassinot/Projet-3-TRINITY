@@ -184,3 +184,4 @@ st.line_chart(data['close'])
 Les contributions sont les bienvenues. Veuillez soumettre une pull request ou ouvrir une issue pour toute suggestion ou amélioration.
 
 
+### **Support de présentation du projet:** https://www.canva.com/design/DAGcLT2icFU/vo563_Vw8YkeFwvvi9_eZQ/edit?utm_content=DAGcLT2icFU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
